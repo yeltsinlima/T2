@@ -1,0 +1,41 @@
+.menu {
+	padding-top: 8px;
+}
+
+#content {
+	margin-top: 90px;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.artigos {
+	border-top: solid 1px #CCC;
+	padding-top: 25px;
+	padding-bottom: 15px;
+}
+
+#atualizacoes {
+	margin-top: 20px;
+}
+
+.conteudo {
+	margin-top: 10px;
+}
+
+.conteudo h2 {
+	margin-bottom: 10px;
+}
+
+.conteudo blockquote p {
+	padding-bottom: 15px;
+}
+
+.control-group {
+	margin-bottom: 20px;
+}
+
+.add-on {
+	margin-top: -9px;
+}
